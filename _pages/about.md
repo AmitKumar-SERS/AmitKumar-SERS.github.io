@@ -6,7 +6,7 @@ author_profile: true
 
 ## Hello! Welcome to my personal website!
 
-I am a PhD student at the University of Georgia working under Prof. Yiping Zhao.
+I am a PhD Candidate at the University of Georgia working under Prof. Yiping Zhao.
 
 My research focuses on Surface-Enhanced Raman Spectroscopy (SERS), plasmonic nanomaterials, and machine learning for chemical and biological sensing.
 
@@ -18,8 +18,8 @@ I also work on understanding spectral variability, building analytical models, a
 
 ## Education
 
-- PhD in Physics, University of Georgia  
-- Master’s in Geotechnical Engineering  
+- PhD in Physics, University of Georgia (UGA) 
+- Master’s in Solid State Materials, Indian Institute of Technolohy Delhi (IIT Delhi)
 
 ---
 
