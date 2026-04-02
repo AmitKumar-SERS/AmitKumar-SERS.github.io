@@ -28,7 +28,8 @@ I also work on understanding spectral variability, building analytical models, a
 - Surface-Enhanced Raman Spectroscopy (SERS)  
 - Silver Nanorods (AgNR)  
 - Machine Learning for Spectroscopy  
-- Virus Detection and Biosensing  
+- Virus and Bacterial Detection
+
 
 ---
 
