@@ -1,4 +1,9 @@
-
+---
+layout: single
+title: "About"
+permalink: /
+author_profile: true
+---
 ## Hello! Welcome to my personal website!
 
 I am a PhD Candidate at the University of Georgia working under Prof. Yiping Zhao.
