@@ -1,8 +1,3 @@
----
-layout: archive
-permalink: /
-author_profile: true
----
 
 ## Hello! Welcome to my personal website!
 
@@ -35,6 +30,6 @@ I also work on understanding spectral variability, building analytical models, a
 
 ## News
 
-- **Mar 2026** – Presented at ACS Spring 2026  
-- **Feb 2026** – Submitted BRDC virus paper to Talanta  
+- **Mar 24 2026** – I attended the ACS Spring 2026 Conference and delivered an oral presentation titled “Machine Learning-Enhanced airPLS Parameter Optimization for Noise-robust SERS Baseline Correction”. I am also honored to be the presider of the session “Advances in Spectroscopy: Advances in Spectroscopic Detection” under ANYL: Division of Analytical Chemistry.  
+- **March 5 2026** –Our conference paper “SpectraGuru: a community-guided path toward scalable Raman and SERS analysis” was published in the SPIE proceedings. Presented by Mr. Fengbo Ma.  
 - **Mar 2026** – Submitted bacterial SERS paper to SNB  
