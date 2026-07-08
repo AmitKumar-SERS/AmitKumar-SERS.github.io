@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Amit Kumar | SERS, Raman Spectroscopy, and Machine LearningHome"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Amit Kumar"
 description              : &description "h.D. candidate at the University of Georgia working on SERS, plasmonic nanomaterials, Raman spectroscopy, and machine learning for sensing applications."   # Update this with a general description of your site, this is the default if not overridden by a page
